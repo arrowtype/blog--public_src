@@ -1,0 +1,20 @@
+{
+  "title": "Arrow Type Blog",
+  "url": "https://blog.arrowtype.com/",
+  "description": "Notes on type, tech, & design.",
+  "feed": {
+    "subtitle": "Notes on type, tech, & design.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://blog.arrowtype.com/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://blog.arrowtype.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Stephen Nixon",
+    "email": "stephen@arrowtype.com",
+    "url": "https://arrowtype.com"
+  }
+}
